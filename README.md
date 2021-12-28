@@ -12,7 +12,7 @@ A computational math enthusiast from New Delhi, India. I love ideating & discuss
 
 - 📱  Working on a startup [ShiokarAI](https://shiokarai.tech)
 - 📚 An Incoming Freshman at the [California Institute of Technology](https://caltech.edu) 
-- ⚛️ Studying for the upcoming exams xD 
+- ⚛️ Studying for my upcoming exams xD 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
