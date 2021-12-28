@@ -1,8 +1,10 @@
-(https://github.com/Amitesh2624/Amitesh2624/blob/f4d809af4cb3cdb16b4a0463d5384a086a106d94/profile.gif)](https://www.amiteshpandey.me/)
+### Hi! I'm
 
-### I'm Amitesh
+[![](https://github.com/Amitesh2624/Amitesh2624/blob/f4d809af4cb3cdb16b4a0463d5384a086a106d94/profile.gif)](https://www.amiteshpandey.me/)
 
-A computer science enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️
+
+
+A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️
 
 [Twitter Follow](https://img.shields.io/twitter/follow/AmiteshAnandPa2?style=social) [Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)
 
@@ -10,8 +12,7 @@ A computer science enthusiast from New Delhi, India. I love ideating & discussin
 
 - 📱  Working on a startup [ShiokarAI][https://shiokarai.tech]
 - 📚 An Incoming Freshman at the California Institute of Technology 
-- ⚛️ Studying for my upcoming exams xD 
-
+- ⚛️ Studying for the upcoming exams xD 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -27,7 +28,3 @@ A computer science enthusiast from New Delhi, India. I love ideating & discussin
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-
-
-
