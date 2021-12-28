@@ -6,7 +6,7 @@
 
 A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️
 
-[Twitter Follow](https://img.shields.io/twitter/follow/AmiteshAnandPa2?style=social) [Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/AmiteshAnandPa2?style=social) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)
 
 ### I'm Currently
 
