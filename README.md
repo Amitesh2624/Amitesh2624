@@ -1,7 +1,9 @@
-### Hi! I'm
-
+<h1 align='center'>
+  Hi there 👋 
+</h1>
+<center>
 [![](https://github.com/Amitesh2624/Amitesh2624/blob/f4d809af4cb3cdb16b4a0463d5384a086a106d94/profile.gif)](https://www.amiteshpandey.me/)
-
+</center>
 
 
 A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️. Over the years of my schooling, I have participated in various research oritented activities. A collation of my work as part of the Pathcheck Foundation, Cambridge MA, and the Bulgarian Academy of Sciences, Sofia can be found [here](https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en).
