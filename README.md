@@ -1,17 +1,16 @@
 [![](https://github.com/Amitesh2624/Amitesh2624/blob/f4d809af4cb3cdb16b4a0463d5384a086a106d94/profile.gif)](https://www.amiteshpandey.me/)
 
-### I'm [Amitesh][https://amiteshpandey.me]
+### I'm Amitesh
 
 A computer science enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here][https://amiteshpandey.me/contact] if you'd like to talk ✌️
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AmiteshAnandPa2?style=social)][twitter]  [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)][reddit]
+[![Twitter Follow](https://img.shields.io/twitter/follow/AmiteshAnandPa2?style=social)] [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)]
 
 ### I'm Currently
 
-- 📱 Building a cool mobile app for [Pickyourtrail][pickyourtrail]
-- 📚 Mentoring budding programmers
-- ⚛️ Building open source [react native components][rn-toolkit]
-- 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+- 📱  Working on a startup [ShiokarAI][https://shiokarai.tech]
+- 📚 An Incoming Freshman at the California Institute of Technology 
+- ⚛️ Studying for the upcoming exams xD 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
