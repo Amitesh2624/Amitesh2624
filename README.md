@@ -6,7 +6,18 @@
 
 A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️. Over the years of my schooling, I have participated in various research oritented activities. A collation of my work as part of the Pathcheck Foundation, Cambridge MA, and the Bulgarian Academy of Sciences, Sofia can be found [here](https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en).
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/physicsurfer?style=social)
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/amitesh-anand-pandey/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://reddit.com/u/physicsurfer">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 
 ### I'm Currently
 
