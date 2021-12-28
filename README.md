@@ -10,8 +10,8 @@ A computational math enthusiast from New Delhi, India. I love ideating & discuss
 
 ### I'm Currently
 
-- 📱  Working on a startup [ShiokarAI][https://shiokarai.tech]
-- 📚 An Incoming Freshman at the California Institute of Technology 
+- 📱  Working on a startup [ShiokarAI](https://shiokarai.tech)
+- 📚 An Incoming Freshman at the [California Institute of Technology](https://caltech.edu) 
 - ⚛️ Studying for the upcoming exams xD 
 ### Languages
 
