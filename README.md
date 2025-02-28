@@ -8,7 +8,7 @@
   </a>
 </p>
 
-A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. Reach out to me [here](https://amiteshpandey.me/contact) if you'd like to talk ✌️. Over the years of my schooling, I have participated in various research oritented activities. A collation of my work as part of the Pathcheck Foundation, Cambridge MA, and the Bulgarian Academy of Sciences, Sofia can be found [here](https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en).
+A computational math enthusiast from New Delhi, India. I love ideating & discussing novel applications of ML. A collation of my work as part of Caltech, the Pathcheck Foundation and the Bulgarian Academy of Sciences can be found [here](https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en).
 
 
 <p align='center'>
@@ -23,9 +23,8 @@ A computational math enthusiast from New Delhi, India. I love ideating & discuss
 
 ### I'm Currently
 
-- 📱  Working on a startup [ShiokarAI](https://shiokarai.tech)
-- 📚 Rising Sophomore at the [California Institute of Technology](https://caltech.edu) 
-- ⚛️ Studying for my upcoming exams xD 
+- 📱  working on a startup [ShiokarAI](https://shiokarai.tech)
+- 📚 a rising junior at the [California Institute of Technology](https://caltech.edu) 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
