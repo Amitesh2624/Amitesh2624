@@ -21,13 +21,6 @@ I'm a senior at **Caltech**, studying computer science and business economics, w
 
 My work spans numerical simulation, neural operators, machine learning for chemistry, and applied ML systems. I'm also interested in embodied AI, causal inference, and efficient neural-network inference.
 
-### Research & experience
-
-- **Scientific ML · Caltech, Bhattacharya Lab:** Used discrete-element simulations, coarse-graining, and Fourier neural operators to learn constitutive relations for granular flow.
-- **Applied ML · Kloudspot:** Built time-aligned pipelines over millions of manufacturing process records and evaluated models for out-of-spec prediction.
-- **ML for chemistry · Caltech, Reisman Group:** Developed quantum-mechanical descriptors and supervised models for predicting regioselectivity in C–H bond functionalization; contributed to research published in *JACS*.
-- **Generative AI · Public Knowledge Studio:** Built controlled asset-generation workflows combining LoRA fine-tuning with LLM-driven style and layout controls.
-
 ### Selected projects
 
 - **MineGPT:** A Minecraft simulation testbed for embodied AI agents; exploring multi-agent control and decision-making.
